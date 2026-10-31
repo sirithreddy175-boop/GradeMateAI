@@ -1,0 +1,19 @@
+Gemma 4 model license notice
+
+GradeMate AI uses Google's Gemma 4 model. Google states that Gemma 4 is
+released under the Apache License, Version 2.0.
+
+Official license text:
+https://www.apache.org/licenses/LICENSE-2.0
+
+Official Google announcement:
+https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+
+This notice is provided for model attribution. It does not mean that the
+GradeMate AI source code is licensed under Apache-2.0. The GradeMate AI
+source code is licensed separately under the MIT License in the LICENSE
+file.
+
+If you redistribute Gemma 4 model weights or other model artifacts, include
+the applicable Apache-2.0 license and notices required for those artifacts.
+This notice alone is not a substitute for those materials.
