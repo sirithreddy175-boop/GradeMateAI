@@ -1,0 +1,11 @@
+<svg width="760" height="150" viewBox="0 0 760 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>GradeMate AI — Smarter Assessment. Teacher-Controlled Grading.</title>
+  <g stroke="#253B56" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 22h48l24 24v70a12 12 0 0 1-12 12H25a12 12 0 0 1-12-12V34a12 12 0 0 1 12-12Z"/>
+    <path d="M73 22v25h24"/>
+    <path d="M31 56h37M31 72h37M31 88h27"/>
+    <path d="m67 98 12 12 28-31"/>
+  </g>
+  <text x="142" y="77" fill="#253B56" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-2.2">GradeMate AI</text>
+  <text x="144" y="111" fill="#6D7D8E" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="500">Smarter Assessment. Teacher-Controlled Grading.</text>
+</svg>
